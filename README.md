@@ -6,6 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Race Simulator
 - 🌱 I’m currently learning C#
+<!--
 - ⚡ Experience: 
   - Visual Basic
   - Python
